@@ -19,7 +19,7 @@ I enjoy solving problems with **C** and algorithms, and exploring **web developm
   - AtCoder **Green** (Algorithm & Heuristic)
   - 2nd place + Audience Award @ 1-Week Online Hackathon (Poker AI)
 - 📜 **Certifications:** IT Passport / Fundamental & Applied IT Engineer / PAST Intermediate / Information Security Specialist (exam scheduled)
-- 🌐 **Portfolio:** https://portfolio-dev-react-bits-t67s.vercel.app/
+- 🌐 **Portfolio:** [https://portfolio-dev-react-bits-t67s.vercel.app/](https://portfolio-dev-react-bits-7vne.vercel.app/)
 ---
 
 ### 📫 Contact
